@@ -29,25 +29,25 @@ This project transforms raw HR data (1,470 records) into actionable intelligence
 
 ---
 ### Contact
-**Ryan Gillespie** [LinkedIn](YOUR_LINKEDIN_URL) | [Portfolio](YOUR_PORTFOLIO_URL)
+**Ryan Gillespie** [LinkedIn](https://www.linkedin.com/in/ryan-gillespie-34488513a/) | [Portfolio](YOUR_PORTFOLIO_URL)
 
 
 Data obtained from Kaggle: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data
 
 
-Dax Measured used: 
+## Dax Measured used: 
 
-Attrition Rate = DIVIDE([Total Attrition],[Total Employees])
+** Attrition Rate = DIVIDE([Total Attrition],[Total Employees])
 
-Avg Job Satis. = AVERAGE(HREmployee[JobSatisfaction])
+** Avg Job Satis. = AVERAGE(HREmployee[JobSatisfaction])
 
-Avg Monthly Attrition Income = CALCULATE(AVERAGE(HREmployee[MonthlyIncome]),HREmployee[Attrition] = "Yes")
+** Avg Monthly Attrition Income = CALCULATE(AVERAGE(HREmployee[MonthlyIncome]),HREmployee[Attrition] = "Yes")
 
-Avg Monthly Income = AVERAGE(HREmployee[MonthlyIncome])
+** Avg Monthly Income = AVERAGE(HREmployee[MonthlyIncome])
 
-Total Attrition = SUM(HREmployee[Attrition Count])
+** Total Attrition = SUM(HREmployee[Attrition Count])
 
-Total Employees = COUNTROWS('HREmployee')
+** Total Employees = COUNTROWS('HREmployee')
 
 
 
