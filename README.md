@@ -21,7 +21,7 @@ This project transforms raw HR data (1,470 records) into actionable intelligence
 ## Repository Structure
 * `IBM HR Dashboard.pbix`: The complete Power BI source file.
 * `HREmployee.csv`: The underlying IBM HR dataset used for the analysis.
-* `Untitled.png`: A high-resolution preview of the final dashboard.
+* `IBM HR DASHBOARD Screenshot.png`: A high-resolution preview of the final dashboard.
 
 ## Video Walkthrough
 *If you recorded a narrated video, add the link here!*
