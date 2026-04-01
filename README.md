@@ -1,8 +1,3 @@
-
-
-
-##IBM HR Attrition & Sentiment Intelligence Dashboard
-
 > **An end-to-end People Analytics solution identifying high-risk turnover drivers using Power BI, DAX, and automated ETL.**
 
 ![Dashboard Overview](./IBM%20HR%20DASHBOARD%20Screenshot.png)
