@@ -5,7 +5,7 @@
 
 > **An end-to-end People Analytics solution identifying high-risk turnover drivers using Power BI, DAX, and automated ETL.**
 
-![Dashboard Overview](./IBM HR DASHBOARD Screenshot.png)
+![Dashboard Overview](./IBM%20HR%20DASHBOARD%20Screenshot.png)
 
 ##Project Overview
 This project transforms raw HR data (1,470 records) into actionable intelligence. By correlating compensation, overtime, and role-based satisfaction, this dashboard isolates **why** employees leave and quantifies the **financial impact** of that turnover.
