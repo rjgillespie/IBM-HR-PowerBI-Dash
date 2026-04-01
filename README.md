@@ -2,8 +2,8 @@
 
 ![Dashboard Overview](./IBM%20HR%20DASHBOARD%20Screenshot.png)
 
-##Project Overview
-This project transforms raw HR data (1,470 records) into actionable intelligence. By correlating compensation, overtime, and role-based satisfaction, this dashboard isolates **why** employees leave and quantifies the **financial impact** of that turnover.
+## Project Overview
+This project transforms raw HR data (1,470 records) into actionable intelligence. By correlating compensation, overtime, and role-based satisfaction, this dashboard isolates why employees leave and quantifies the financial impact of that turnover.
 
 ## Key Insights
 * **Turnover Hotspot:** Sales Representatives exhibit the highest attrition intensity, specifically correlated with high overtime frequency.
